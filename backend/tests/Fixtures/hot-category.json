@@ -1,0 +1,29 @@
+{
+  "status": 200,
+  "response": [
+    {
+      "parent_id": "0",
+      "image": "https://sgp1.digitaloceanspaces.com/hc999/image/cache/ceddropshipper/no_image-250x250.png",
+      "name": "Women",
+      "category_id": "20"
+    },
+    {
+      "parent_id": "0",
+      "image": "https://sgp1.digitaloceanspaces.com/hc999/image/cache/ceddropshipper/no_image-250x250.png",
+      "name": "Men's",
+      "category_id": "24"
+    },
+    {
+      "parent_id": "0",
+      "image": "https://sgp1.digitaloceanspaces.com/hc999/image/cache/ceddropshipper/no_image-250x250.png",
+      "name": "Kids",
+      "category_id": "28"
+    },
+    {
+      "parent_id": "20",
+      "image": "https://sgp1.digitaloceanspaces.com/hc999/image/cache/ceddropshipper/no_image-250x250.png",
+      "name": "Sportswear",
+      "category_id": "59"
+    }
+  ]
+}
